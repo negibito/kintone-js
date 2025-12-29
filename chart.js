@@ -1,4 +1,5 @@
 window.drawSalesChart = function (records) {
-  console.log('records:', records);
-  console.log('first record:', records[0]);
+  console.log('[CDN] drawSalesChart called');
+  console.log('[CDN] records:', records);
+  console.log('[CDN] first record:', records[0]);
 };
